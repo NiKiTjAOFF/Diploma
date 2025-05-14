@@ -1,1 +1,1 @@
-- [Diploma Plan](./План%20Диплома.drawio.html)
+- [Diploma Plan](./План%20Диплома.drawio)
