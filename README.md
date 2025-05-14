@@ -1,1 +1,1 @@
-![Diploma Plan Preview](План Диплома.drawio)
+- [Diploma Plan Preview](План Диплома.drawio.html)
