@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Страница — 1" id="p6m66AcIY42godJlNhnS">
+    <mxGraphModel dx="595" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-2" value="Загрузка 3д-Объекта" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-3" value="Создание шейдера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-4" value="Обработка клавиш" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-1" value="Создание окна" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_BGWMvQDyLr9viPzPUrb-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kassa.bifit.com/wiki/images/d/da/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_Gif.gif;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="100" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
